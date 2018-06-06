@@ -81,6 +81,7 @@ function gameStart() {
                 console.log('---------------------------');
                 randomQuestion(questionBank);
             } else if(userAnswer !== questionBank[random].rightAnswer && userAnswer !== 'exit') {
+                
                 console.log('Wrong answer, try again');
                 console.log(`Your current score is: ${score}`);
                 console.log('---------------------------');
