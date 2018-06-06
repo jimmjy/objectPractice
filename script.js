@@ -69,7 +69,7 @@ function gameStart() {
             console.log(i + ': ' + questionBank[random].answers[i]);
         }
 
-        var userAnswer = prompt('What is your answer?');
+        var userAnswer = prompt('Please select the corrent answer (just type the number). or type exit to quit.');
         
         //Immediately invoked function to automate process and practice
 
