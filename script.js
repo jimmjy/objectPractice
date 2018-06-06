@@ -49,7 +49,7 @@ function gameStart() {
 
     // create questions with constructor
 
-    var questionOne = new Question('what is the name of this course\'s teacher?', ['John', 'Michael', 'Jonas'], 2);
+    var questionOne = new Question('What is best for web page styling', ['A pencil', 'Gliding fingers across the screen', 'CSS'], 2);
 
     var questionTwo = new Question('Is javascript the coolest programming language in the world?', ['yes', 'no'], 0);
 
