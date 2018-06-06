@@ -6,4 +6,4 @@ from functions, immediately invoked function expression and functional program, 
 Can check out at:
 https://jimmjy.github.io/objectPractice/
 
-Open JS console to checkout(ctrl + j).
+For best use, type exit on prompt dialogue then open JS console(ctrl + j), then reload page.
